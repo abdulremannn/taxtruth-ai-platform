@@ -1,0 +1,24 @@
+﻿{
+  "primary_form_type": "1040",
+  "approved_fields": {
+    "taxpayer_name": {
+      "value": "DANNY SHIRI",
+      "source_line": "Taxpayer name",
+      "confidence": 1,
+      "notes": "Approved manually after review"
+    },
+    "spouse_name": {
+      "value": "SANDY SHIRI",
+      "source_line": "Spouse name",
+      "confidence": 1,
+      "notes": "Approved manually after review"
+    },
+    "wages": {
+      "value": 65000,
+      "source_line": "Line 1a",
+      "confidence": 1,
+      "notes": "Approved manually after review"
+    }
+  },
+  "overwrite": true
+}

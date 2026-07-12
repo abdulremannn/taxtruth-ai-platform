@@ -1,0 +1,12 @@
+@'
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.idea/
+taxtruth_pdf_pages_*/
+*.log
+'@ | Set-Content -Path .gitignore -Encoding UTF8

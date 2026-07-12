@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+pypdf
+Pillow
+pytesseract
+PyMuPDF>=1.24.14
